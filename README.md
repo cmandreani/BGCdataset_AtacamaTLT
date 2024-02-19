@@ -1,7 +1,7 @@
 # BGC dataset - Atacama (TLT)
 DOI: 10.5281/zenodo.10680981  
 
-Repository of predicted specialized meabolite-encoding genomic regions of 5,000 bp or longer recovered from 42 soil bacterial MAGs of the Atacama Desert, deposited at the NCBI BioProject PRJNA291433.  
+Repository of predicted specialized meabolite-encoding genomic regions of 5,000 bp or longer recovered from 42 soil bacterial MAGs of the Atacama Desert (Talabre-Lejía transect), deposited at the NCBI BioProject PRJNA291433.  
 
 Sequences and annotations of biosynthetic gene clusters (BGCs) are available for download in fasta and genbank formats.  
 
