@@ -7,8 +7,8 @@ DOI: 10.5281/zenodo.10680981
 ## Data Availability
 
 Biosynthetic gene clusters (BGCs) are available in fasta and genbank formats:
-- [Download sequences of BGCs (.FA)](https://github.com/cmandreani/BGCdataset_AtacamaTLT/blob/main/BGCs_seqs_fastas.zip)
-- [Download annotations of BGCs (.GBK)](https://github.com/cmandreani/BGCdataset_AtacamaTLT/blob/main/BGCs_annots_gbks.zip)
+- [Download sequences of BGCs (.fa)](https://github.com/cmandreani/BGCdataset_AtacamaTLT/blob/main/BGCs_seqs_fastas.zip)
+- [Download annotations of BGCs (.gbk)](https://github.com/cmandreani/BGCdataset_AtacamaTLT/blob/main/BGCs_annots_gbks.zip)
 
 Genome sequences of assembled MAGs are deposited at the NCBI database under the BioProject accession PRJNA291433.
 
