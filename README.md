@@ -1,13 +1,13 @@
-### BGC dataset - Atacama (TLT)
+# BGC dataset - Atacama (TLT)
 
 Repository of specialized meabolite-encoding genomic regions of 5,000 bp or longer predicted in 42 soil bacterial MAGs of the Atacama Desert (Talabre-Lejía transect).
 DOI: 10.5281/zenodo.10680981 
 
 ## Data Availability
 
-Sequences and annotations of biosynthetic gene clusters (BGCs) are available for download in fasta and genbank formats.
-- [Download BGCs in Fasta Format](https://example.com/path/to/fasta)
-- [Download BGCs in Genbank Format](https://example.com/path/to/genbank)
+Biosynthetic gene clusters (BGCs) are available for download in fasta and genbank formats:
+- [Download sequences of BGCs (.FA)](https://github.com/cmandreani/BGCdataset_AtacamaTLT/blob/main/BGCs_seqs_fastas.zip)
+- [Download annotations of BGCs (.GBK)](https://github.com/cmandreani/BGCdataset_AtacamaTLT/blob/main/BGCs_annots_gbks.zip)
 
 Genomic sequences of assembled MAGs are deposited at the NCBI database under the BioProject accession PRJNA291433.
 
