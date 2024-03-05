@@ -16,6 +16,6 @@ Genome sequences of assembled MAGs are deposited at the NCBI database under the 
 
 If you utilize this data in your research, please cite our work: xxxxxxxxxxxxxxxx  
 
-For more information on genomes, BGCs, and specialized genes, please refer to Supplementary Tables 5, 6, and 7 in the associated article.  
+For more information on genomes, BGCs, and specialized genes, please refer to Supplementary Tables 4, 5, and 6 in the associated article.  
 
-For any questions or issues, feel free to contact us!
+For any questions or issues, feel free to contact us c:
