@@ -1,6 +1,6 @@
 # BGC dataset - Atacama Desert (TLT)
 
-Repository of specialized meabolite-encoding genomic regions of 5,000 bp or longer predicted in 42 soil bacterial MAGs from Atacama's Talabre-Lejía transect.  
+Repository of specialized meabolite-encoding genomic regions of 5,000 bp or longer predicted in 42 soil bacterial MAGs from Atacama's Talabre-Lejía transect, Antofagasta, Chile (~23.4°S, ~67.8°W).  
 
 DOI: 10.5281/zenodo.10680981 
 
